@@ -6,6 +6,7 @@ DSA progress over time
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Z3n1thx/DSA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Z3n1thx/DSA/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -15,4 +16,8 @@ DSA progress over time
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Z3n1thx/DSA/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/Z3n1thx/DSA/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
